@@ -4,9 +4,6 @@ import web.types.RequestType;
 
 public class Main {
     private static String currentDatabaseName = null;
-    private static String currentTableName = null;
-
-    private final String USER_AGENT = "Mozilla/5.0";
 
     public static void main(String[] args) throws Exception {
 
